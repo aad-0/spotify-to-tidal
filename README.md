@@ -9,13 +9,13 @@ TODO
 
     []  ADD a oauth login, spotify has it, but tidal
         Spotify does login automatically
-        I just leave as it is, it will be change after beta
+        I just leave as it is, it will be changed after beta
     
         Tidal dedects any selenium activity or being, so;
             1) I can put a portable any browser, and get all cookies
             2) Make selenium driver undedected
 
-            I will take one of these ways, but it is not my firts preference to have a script for dump all cookies for a browser
+            I will take one of these ways, but it is not my first preference to have a script for dump all cookies for a browser
 
 
 
