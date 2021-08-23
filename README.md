@@ -48,7 +48,7 @@ What secrets.py needs:
 
     tidal login, and tidal password is not nececarry
 
-    market it is, it should be same as Spotifys'
+    market is, it should be same as Spotifys'
 
     for tidal token, when you logged in to listen.tidal, you have to open developer tools from your webbrowser, then go to storage and click local storage you have to find oAuthAccessToken
 
