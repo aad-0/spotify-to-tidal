@@ -1,15 +1,14 @@
 version beta 0.1.0
 
-just run the spotify first, let it finish
-then run tidal.py
+just run the spotify first, then run the tidal.py
 
-what does these scripts is dump all playlist and tracks in them into files via spotify API's. Tidal has no service of public API's, but they have simular API system. I used them for tidal.py
+what do these scripts is dump all playlists with tracks and write them into some files via spotify API's.
+Tidal has no service of public API's, but they have simular API system. You can see some of them in tidal.py
 
 TODO
 
     []  ADD a oauth login, spotify has it, but tidal
-        Spotify does login automatically
-        I just leave as it is, it will be changed after beta
+        Spotify does login automatically. I just leave as it is, it will be changed after beta
     
         Tidal dedects any selenium activity or being, so;
             1) I can put a portable any browser, and get all cookies
