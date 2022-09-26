@@ -1,3 +1,6 @@
+Not very important update:
+    since tidal is not available in Turkey, I will not add any further features.
+
 version beta 0.1.0
 
 just run the Spotify first, then run the tidal.py
